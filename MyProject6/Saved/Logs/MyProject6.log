@@ -730,3 +730,46 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.19-03.00.37:647][626]LogSavePackage: Moving '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Saved/UN95CGCWRNUSXLITJHA08B845F2A634FC88CCF55C112AEF4CBAACB.tmp' to '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/KT/UN95CGCWRNUSXLITJHA08B.uasset'
 [2022.05.19-03.00.37:661][626]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter_C_UAID_7085C2F01402B81001_1237529439
 [2022.05.19-03.00.37:661][626]LogContentValidation: Display: Validating BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_7085C2F01402B81001_1237529439
+[2022.05.19-03.11.59:212][216]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.05.19-03.11.59:213][216]LogSavePackage: Moving '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Saved/BP_FirstPersonCharacter8C8DA8C34EB762817814329C9CA43135.tmp' to '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-03.12.02:699][216]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.19-03.12.04:648][216]LogSlate: Window 'Message' being destroyed
+[2022.05.19-03.12.04:652][216]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2022.05.19-03.12.04:659][216]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-03.12.04:659][216]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-03.12.13:407][194]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.05.19-03.12.13:408][194]LogSavePackage: Moving '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Saved/BP_FirstPersonCharacter65CE917645A0E07AF756D29AB5D0F9A0.tmp' to '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-03.12.35:696][194]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.19-03.12.38:198][194]LogSlate: Window 'Message' being destroyed
+[2022.05.19-03.12.38:202][194]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2022.05.19-03.12.38:207][194]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-03.12.38:207][194]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-03.12.44:830][917]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-03.12.44:879][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.05.19-03.12.45:033][917]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.05.19-03.12.45:034][917]LogSavePackage: Moving '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Saved/BP_FirstPersonCharacter5586E8E84F4BAC32CCD0F89355780E01.tmp' to '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-03.12.45:043][917]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-03.12.45:043][917]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-03.12.51:571][644]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.05.19-03.12.51:572][644]LogSavePackage: Moving '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Saved/BP_FirstPersonCharacter14816E4742A96236ACB5BAB1350A04C7.tmp' to '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-03.13.36:092][644]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.19-03.13.37:865][644]LogSlate: Window 'Message' being destroyed
+[2022.05.19-03.13.37:869][644]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2022.05.19-03.13.37:875][644]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-03.13.37:875][644]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-03.14.26:036][314]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-03.14.26:085][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.05.19-03.14.26:231][314]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.05.19-03.14.26:232][314]LogSavePackage: Moving '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Saved/BP_FirstPersonCharacterDD8B1F83438997624C388A9003B8D320.tmp' to '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-03.14.26:243][314]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-03.14.26:243][314]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-03.14.53:203][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.05.19-03.14.53:203][496]LogSavePackage: Moving '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Saved/BP_FirstPersonCharacter4038C4B34510D09D70E068930E554025.tmp' to '../../../../../../Users/Mark/Documents/GitHub/QujockProject1/MyProject6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-03.15.13:902][496]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.19-03.15.14:121][496]LogSourceControl: commit successful: [main a99f7bf] Doing final push for tutorial purposes
+[2022.05.19-03.15.14:143][496]SourceControl: [main a99f7bf] Doing final push for tutorial purposes
+[2022.05.19-03.15.14:143][496]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.05.19-03.15.14:143][496]SourceControl:  rewrite MyProject6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset (68%)
+[2022.05.19-03.15.14:158][496]SourceControl: Commited [main a99f7bf] Doing final push for tutorial purposes.
+[2022.05.19-03.15.14:163][496]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-03.15.14:163][496]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
