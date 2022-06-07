@@ -1,0 +1,49 @@
+Begin Object Class=/Script/Engine.Material Name="M_Wheel"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_9"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_10"
+      Texture=Texture2D'"/Game/PadlockAndKeypadPack/Padlock/Textures/T_Wheel_N.T_Wheel_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=EF79A7A14E09C21CBAE982BC22B5DB48
+      Material=Material'"M_Wheel"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_11"
+      Texture=Texture2D'"/Game/PadlockAndKeypadPack/Padlock/Textures/T_Wheel_R.T_Wheel_R"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=D9F1CD6F403970D1F2BD1EBB1069C5F2
+      Material=Material'"M_Wheel"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_9"
+      Texture=Texture2D'"/Game/PadlockAndKeypadPack/Padlock/Textures/T_Wheel_BC.T_Wheel_BC"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=0DB42A8C4B847198177A5A9DE5112347
+      Material=Material'"M_Wheel"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_9"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_11"',OutputIndex=3,Mask=1,MaskB=1)
+   Roughness=(OutputIndex=2,Mask=1,MaskG=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_10"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   AmbientOcclusion=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_11"',OutputIndex=1,Mask=1,MaskR=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_9"'
+   Expressions(1)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_11"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_10"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=E278705F4F6C337BC94EBABACD6865FD
+   ReferencedTextureGuids(0)=F0A3340F4905E24D91483DACA9931E08
+   ReferencedTextureGuids(1)=4DA30C574259B6FC927830893EEA24DE
+   ReferencedTextureGuids(2)=400A79C34F7BC1F7286AD48132D13542
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_3"'
+   LightingGuid=9F725B204168B467426349AB3BD38C17
+End Object
